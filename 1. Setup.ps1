@@ -1,3 +1,10 @@
+<#
+Name: Philip Stewart
+Student Number L00187850
+Date: 05 Dec 2024
+Task:Pre-requisite for upgrading to powershell 7
+#>
+
 # Check the exising version
 $PSVersiontable
 # Set an execution policy
