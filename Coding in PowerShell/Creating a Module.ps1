@@ -7,7 +7,7 @@ Note: Creating a Module in Powershell
 #>
 
 # $PathOfModule = "C:\Users\$env:USERNAME\Documents\PowerShell\Modules\HelloWorld"
-$PathOfModule = "C:\Powershell\Modules\HelloWorld"
+$PathOfModule = "C:\Powershell\Coding in PowerShell\Modules\HelloWorld"
 
 
 $PhilipsModule = @"
