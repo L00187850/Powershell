@@ -5,12 +5,12 @@
 
 ## There are three folders within this.
  1. Coding in Powershell - This contains six subfolders showing the following:
-	 - Conditional Branching
-	 - Looping
-	 - Modules
-	 - Piping Commands
-	 - Types
-	 - Variables
+- Conditional Branching
+- Looping
+- Modules
+- Piping Commands
+- Types
+- Variables
 
  .2 Configuration At Scale: This contains work about Desired State Configurations and also a Demonstration for my Continuous Assessment.
 - DSC Configuration Demonstration
