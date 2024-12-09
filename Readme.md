@@ -12,13 +12,13 @@
 	 - Types
 	 - Variables
 
- .2 Configuration At Scale - This contains work about Desired State Configurations and also a Demonstration for my Continuous Assessment.
+ .2 Configuration At Scale: This contains work about Desired State Configurations and also a Demonstration for my Continuous Assessment.
 	 - DSC Configuration Demonstration
 	 - Configuration at Scale.ps1
 	 - Desired State Configuration
 	 - MOF file
 	 - Remove Configuration.
 
- .3 Remote Control - This contains two subfolders and a script called remoting.
+ .3 Remote Control: This contains two subfolders and a script called remoting.
 	 - Build
 	 - Creating Users
